@@ -1,6 +1,6 @@
-import img1 from '../img/portImages/maya-1.JPG';
-import img2 from '../img/portImages/maya-2.JPG';
-import img3 from '../img/portImages/maya-3.JPG';
+import img1 from '../img/portImages/maya-1.jpg';
+import img2 from '../img/portImages/maya-2.jpg';
+import img3 from '../img/portImages/maya-3.jpg';
 
 const portfolios = [
   {
