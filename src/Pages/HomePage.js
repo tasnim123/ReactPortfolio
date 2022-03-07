@@ -16,10 +16,10 @@ function HomePage() {
                    I am an enthusiastic full Stack Developer
                 </p>
                 <div className="icons">
-                    <a href="https://codepen.io/pen/" className="icon i-facebook">
+                    <a href="https://www.facebook.com/tasnim.rahat.5" className="icon i-facebook">
                         <FacebookIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-github">
+                    <a href="https://github.com/tasnim123" className="icon i-github">
                         <GithubIcon />
                     </a>
                 </div>
